@@ -39,28 +39,36 @@ A simple and fun iOS app where you can pick your favourite Pokémon using data f
 🧠 What I Learned
 
 
-How to use UITableView with custom cells
+->How to use UITableView with custom cells
 
-Making async API calls with URLSession
+->Making async API calls with URLSession
 
-Decoding JSON using Codable
+->Decoding JSON using Codable
 
-Passing data between view controllers using delegates
+->Passing data between view controllers using delegates
 
-Storing simple data in UserDefaults
+->Storing simple data in UserDefaults
+
+
 
 🚀 Future Ideas
 
 
-Add more Pokémon and implement pagination
+*Add more Pokémon and implement pagination
 
-Show Pokémon types, stats, and abilities
+*Show Pokémon types, stats, and abilities
 
-Use UICollectionView for a card-style layout
+*Use UICollectionView for a card-style layout
 
-Add a search bar to filter Pokémon
+*Add a search bar to filter Pokémon
+
+
+
 
 📚 Credits
 PokéAPI for the Pokémon data
+
+
+
 
 Built with ❤️ by Simarjeet Kaur
