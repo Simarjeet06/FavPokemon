@@ -37,6 +37,8 @@ A simple and fun iOS app where you can pick your favourite Pokémon using data f
    git clone https://github.com/your-username/my-favourite-pokemon.git
 
 🧠 What I Learned
+
+
 How to use UITableView with custom cells
 
 Making async API calls with URLSession
@@ -48,6 +50,8 @@ Passing data between view controllers using delegates
 Storing simple data in UserDefaults
 
 🚀 Future Ideas
+
+
 Add more Pokémon and implement pagination
 
 Show Pokémon types, stats, and abilities
